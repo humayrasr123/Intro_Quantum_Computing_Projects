@@ -1,6 +1,7 @@
 # Intro to Quantum Computing Projects
 
 **Course:** CS 4540 — Introduction to Quantum Computing
+
 **Author:** Humayra Rashid
 
 ## 📖 Overview
